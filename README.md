@@ -9,3 +9,16 @@ B. ```define myFunction() { }```
 C. ```function myFunction() { }```
 
 D. ```define myFunction { return value; }```
+
+===========================================================
+KEY - * INCORRECT * : No answer provided to question!
+
+The correct answer was 'C'. Every function signature must have parenthesis after the name.
+Even if no parameters will be passed into the function.
+
+```
+function myFunction()
+{
+	// Do some stuff
+}
+```
